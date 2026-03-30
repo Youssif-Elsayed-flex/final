@@ -1,0 +1,75 @@
+🎤 Flex Store – PowerPoint Presentation
+🟩 Slide 1 – Title
+
+Flex Store – E-commerce Website
+Mobile Store Project
+
+Name: Youssef
+Department: Programming
+🟦 Slide 2 – Project Idea 💡
+Online store for mobile devices
+Selling phones and accessories
+Real-world business simulation
+Developed from an old Recipe App
+🟨 Slide 3 – Technologies 🛠️
+React (Vite)
+Tailwind CSS
+Node.js + Express
+MySQL
+JWT
+Multer
+🟧 Slide 4 – Features ⚙️
+Product listing
+Search & filter
+Shopping cart
+Checkout system
+Favorites (wishlist)
+Admin dashboard
+🟪 Slide 5 – Database 🗄️
+Products table
+Orders table
+Order items table
+Organized relational database using MySQL
+🟫 Slide 6 – User Experience 👤
+Easy navigation
+Responsive design
+Fast interaction
+Cart & favorites saved in localStorage
+🟥 Slide 7 – Admin System 🔐
+Admin login system
+Add / Edit / Delete products
+Upload product images
+Protected routes
+
+👉 Access:
+/admin/login
+
+👉 Demo Login:
+
+Email: admin@flexstore.com
+Password: admin123
+🟩 Slide 8 – Image Upload 📸
+Upload images from device
+Stored in backend/uploads
+Managed using Multer
+Automatically displayed in frontend
+🟦 Slide 9 – Website Pages 🌐
+Home
+Products
+Product Details
+Cart
+Checkout
+Favorites
+Admin Pages
+🟨 Slide 10 – Challenges 😵
+تحويل المشروع من Recipe إلى E-commerce
+استخدام MySQL بدل MongoDB
+رفع الصور
+ربط الفرونت بالباك
+🟧 Slide 11 – Conclusion 🎯
+Learned full-stack development
+Built a real-world project
+Improved problem-solving skills
+🟪 Slide 12 – Demo & Links 🔗
+GitHub Repository
+Live Website Link
